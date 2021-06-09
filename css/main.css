@@ -92,6 +92,8 @@ display: flex;
 }
 
 .blood {
-  background: url(../img/blood.png) no-repeat top right, url(../img/background.jpg) no-repeat center center / 100%;
+  background: url(../img/blood.png) no-repeat top right,
+  url(../img/background.jpg) no-repeat center center,
+  #14131A;
   
 }
